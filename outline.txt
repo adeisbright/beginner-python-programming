@@ -1,0 +1,19 @@
+Course Outline 
+1.0 Introduction to Python and Uses of Python 
+2.0 Python Syntax , Comments , and variable 
+3.0 Operators 
+4.0 Program control with conditionals 
+5.0 Repetition 
+6.0 String and string formatting
+7.0 Function
+7.0 List
+8.0 Tuple 
+9.0 Dictionary 
+11.0 Exception Handling
+12.0 Object Oriented Programming
+10.0 File Operations
+13.0 Date
+14.0 Regular Expression 
+15.0 Guided Projects 
+***** New Addition *** 
+16.0 Examination
