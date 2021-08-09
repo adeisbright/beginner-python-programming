@@ -1,0 +1,97 @@
+PYTHON STUDY GUIDE 
+================== 
+Day 1 
+------ 
+   Execute Python 
+   Output 
+   Variable 
+   Varible Type 
+   Math 
+   input() 
+   print() 
+   Conditional 
+Day 2 
+------ 
+   Lists 
+   Loop 
+   Function 
+Day 3 
+------- 
+   Solving Simple Problems 
+Day 4 
+--------- 
+   Simple Data Structure 
+   Stacked , Queue , Linked List , Dictionary , tree 
+Day 5 
+------ 
+   OOP
+   Object 
+   Class  
+   Constructor 
+   Method 
+   Inheritance 
+   Encapsulation 
+   Polymorphism 
+Day 6 
+-------- 
+   Search Algorithm 
+   Recursion Algorithm 
+   Time Complexity 
+Day 7 
+------ 
+   Git 
+   Github 
+Day 8 
+------ 
+  Making a simple calculator 
+  Building a tic tac toe 
+Day 9 
+---- 
+   HTML and CSS 
+   Building Web Apps with Django
+Day 10 
+------
+  Hosting 
+  Heroku 
+Day 11 
+------ 
+  Exploring Database 
+  SQLITE 
+  PostgreSQL 
+  MongoDB 
+Day 12 
+------- 
+  Pandas 
+Day 13 
+------ 
+   Understanding API 
+   JSON 
+   Microservices 
+Day 14 
+---------- 
+   Numpy 
+Day 15 
+------ 
+   Web Crawling 
+Day 16 
+------ 
+   Unit Test 
+   Debug 
+   Log 
+Day 17 
+------ 
+   Design and Architecture 
+   Advanced Python 
+Day 18 
+------- 
+   Matplotlib 
+Day 19 
+---------- 
+  Data Science 
+Day 20 
+-------- 
+   Machine Learning  
+Day 21 
+------- 
+     Job requirement 
+     Practice
