@@ -4,6 +4,11 @@
 my_list = [1 , 3 , 2 , 4] 
 another_list = ["a" , "b" , "c" , "d" , "e" , "f"] 
 sliced_list = another_list[2:5] # Include all element from index 2 to the index 5(but not included) . The element at index 5 is exclusive that is not included
+#list[-4:] will return the last four elements in the list  
+# To properly copy a list without referencing the address ., use: 
+# new_list  = list(old_list ) 
+# new_list = old_list[:] 
+
 item_0 = my_list[0] # A list can be sliced and can also be indexed
 del my_list[2]
 print(item_0)
